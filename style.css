@@ -1,0 +1,85 @@
+h1 {
+    text-align: center;
+    background-color: aqua;
+    border-radius: 30px;
+    border: 3px solid red;
+
+}
+
+.fakt {
+    text-align: center;
+    background-color: yellow;
+}
+
+.famale {
+
+    width: 50%;
+    ;
+}
+
+.male {
+
+    width: 50%;
+}
+
+.lion {
+    display: flex;
+    gap: 10px;
+}
+
+.youtube {
+    text-align: center;
+    background-color: yellow;
+
+}
+
+.jadvali {
+    text-align: center;
+    background-color: yellow;
+}
+
+table {
+    width: 100%;
+}
+
+table,
+tr,
+th,
+td {
+    border: 1px solid rgb(243, 239, 239);
+    border-collapse: collapse;
+
+}
+
+.hay {
+    background-color: green;
+    color: white;
+}
+
+.qiziq {
+    background-color: blue;
+    color: white;
+}
+
+.arslon {
+    background-color: red;
+    color: white;
+}
+
+.uyqu {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    width: 65%;
+}
+
+.fil {
+    background-color: red;
+    color: white;
+    width: 15%;
+}
+
+.suv {
+    background-color: black;
+    color: white;
+    width: 500px;
+}
